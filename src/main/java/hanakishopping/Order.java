@@ -8,15 +8,11 @@ public class Order {
 
 
 
-  //商品名
-
   public String getName() {
 
     return this.name;
 
   }
-
-  // setter
 
   public void setName(String name) {
 

@@ -43,7 +43,6 @@ public class Item {
 
 
 
-  //商品名
 
   public String getName() {
 
@@ -51,7 +50,6 @@ public class Item {
 
   }
 
-  // setter
 
   public void setName(String name) {
 
